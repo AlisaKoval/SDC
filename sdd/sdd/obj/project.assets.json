@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ksenichka\\source\\repos\\sdd\\sdd\\sdd.csproj",
+      "projectUniqueName": "C:\\Users\\Ksenichka\\SDC\\sdd\\sdd\\sdd.csproj",
       "projectName": "sdd",
-      "projectPath": "C:\\Users\\Ksenichka\\source\\repos\\sdd\\sdd\\sdd.csproj",
+      "projectPath": "C:\\Users\\Ksenichka\\SDC\\sdd\\sdd\\sdd.csproj",
       "packagesPath": "C:\\Users\\Ksenichka\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ksenichka\\source\\repos\\sdd\\sdd\\obj\\",
+      "outputPath": "C:\\Users\\Ksenichka\\SDC\\sdd\\sdd\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ksenichka\\AppData\\Roaming\\NuGet\\NuGet.Config",

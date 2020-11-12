@@ -85,7 +85,7 @@ namespace sdd
 		private string additionally;
 		private Dictionary<string, string> listOfCandidates;
 		private Dictionary<string, string> listOfMeetings;
-		private static ushort cntW;
-		private static ushort cntM;
+		//private static ushort cntW;
+		//private static ushort cntM;
 	}
 	}
